@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>AI Signal Board RSS Feeds - 中文新闻源</title>
+    <dateCreated>2025-05-04</dateCreated>
+    <ownerName>wen</ownerName>
+  </head>
+  <body>
+
+    <!-- ========== 中文新闻/科技 ========== -->
+    <outline text="中文新闻/科技">
+      <outline
+        text="36氪"
+        title="36氪 - 36Kr"
+        type="rss"
+        xmlUrl="https://36kr.com/feed"
+        htmlUrl="https://36kr.com/"
+      />
+      <outline
+        text="少数派"
+        title="少数派 - sspai"
+        type="rss"
+        xmlUrl="https://sspai.com/feed"
+        htmlUrl="https://sspai.com/"
+      />
+      <outline
+        text="人人都是产品经理"
+        title="人人都是产品经理"
+        type="rss"
+        xmlUrl="https://www.woshipm.com/rss"
+        htmlUrl="https://www.woshipm.com/"
+      />
+      <outline
+        text="阮一峰的网络日志"
+        title="阮一峰的网络日志"
+        type="rss"
+        xmlUrl="https://www.ruanyifeng.com/blog/atom.xml"
+        htmlUrl="https://www.ruanyifeng.com/blog/"
+      />
+      <outline
+        text="爱范儿"
+        title="爱范儿 - ifanr"
+        type="rss"
+        xmlUrl="https://www.ifanr.com/feed"
+        htmlUrl="https://www.ifanr.com/"
+      />
+      <outline
+        text="Solidot"
+        title="Solidot - 奇客资讯"
+        type="rss"
+        xmlUrl="https://www.solidot.org/index.rss"
+        htmlUrl="https://www.solidot.org/"
+      />
+      <outline
+        text="新浪新闻"
+        title="新浪新闻"
+        type="rss"
+        xmlUrl="https://rss.sina.com.cn/news/marquee/ddt.xml"
+        htmlUrl="https://news.sina.com.cn/"
+      />
+    </outline>
+
+    <!-- ========== AI/科技 ========== -->
+    <outline text="AI / 科技">
+      <outline
+        text="OpenAI News"
+        title="OpenAI News"
+        type="rss"
+        xmlUrl="https://openai.com/news/rss.xml"
+        htmlUrl="https://openai.com/news"
+      />
+      <outline
+        text="OpenAI Blog"
+        title="OpenAI Blog"
+        type="rss"
+        xmlUrl="https://openai.com/blog/rss.xml"
+        htmlUrl="https://openai.com/blog/"
+      />
+      <outline
+        text="Google AI Blog"
+        title="Google AI Blog"
+        type="rss"
+        xmlUrl="https://blog.google/technology/ai/rss"
+        htmlUrl="https://blog.google/technology/ai/"
+      />
+      <outline
+        text="MIT Technology Review"
+        title="MIT Technology Review"
+        type="rss"
+        xmlUrl="https://www.technologyreview.com/feed/"
+        htmlUrl="https://www.technologyreview.com/"
+      />
+      <outline
+        text="VentureBeat AI"
+        title="VentureBeat AI"
+        type="rss"
+        xmlUrl="https://venturebeat.com/category/ai/feed/"
+        htmlUrl="https://venturebeat.com/category/ai/"
+      />
+      <outline
+        text="AI News"
+        title="AI News"
+        type="rss"
+        xmlUrl="https://www.artificialintelligence-news.com/feed/"
+        htmlUrl="https://www.artificialintelligence-news.com/"
+      />
+    </outline>
+
+    <!-- ========== 英文科技媒体 ========== -->
+    <outline text="英文科技媒体">
+      <outline
+        text="TechCrunch"
+        title="TechCrunch"
+        type="rss"
+        xmlUrl="https://techcrunch.com/feed/"
+        htmlUrl="https://techcrunch.com/"
+      />
+      <outline
+        text="The Verge"
+        title="The Verge"
+        type="rss"
+        xmlUrl="https://www.theverge.com/rss/index.xml"
+        htmlUrl="https://www.theverge.com/"
+      />
+      <outline
+        text="Wired"
+        title="Wired"
+        type="rss"
+        xmlUrl="https://www.wired.com/feed/rss"
+        htmlUrl="https://www.wired.com/"
+      />
+      <outline
+        text="Ars Technica"
+        title="Ars Technica"
+        type="rss"
+        xmlUrl="https://feeds.arstechnica.com/arstechnica/index"
+        htmlUrl="https://arstechnica.com/"
+      />
+      <outline
+        text="InfoQ CN"
+        title="InfoQ 中文"
+        type="rss"
+        xmlUrl="https://www.infoq.cn/feed"
+        htmlUrl="https://www.infoq.cn/"
+      />
+    </outline>
+
+    <!-- ========== 英文新闻 ========== -->
+    <outline text="英文新闻">
+      <outline
+        text="NPR News"
+        title="NPR News"
+        type="rss"
+        xmlUrl="https://feeds.npr.org/1001/rss.xml"
+        htmlUrl="https://www.npr.org/"
+      />
+    </outline>
+
+  </body>
+</opml>
