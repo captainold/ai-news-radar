@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T12:32:30.578468Z",
+  "generated_at": "2026-08-14T14:04:42.456617Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 173,
-      "duration_ms": 2531,
+      "duration_ms": 6076,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 206,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 37,
-      "duration_ms": 56,
+      "duration_ms": 264,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 439,
+      "duration_ms": 1096,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 316,
+      "duration_ms": 1416,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 401,
-      "duration_ms": 14807,
+      "item_count": 409,
+      "duration_ms": 28909,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 671,
+      "duration_ms": 1623,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3030,
-      "duration_ms": 1544,
+      "item_count": 3034,
+      "duration_ms": 2842,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 80,
-      "duration_ms": 578,
+      "item_count": 77,
+      "duration_ms": 885,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5159,
+      "duration_ms": 4953,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ai.hubtoday.app', port=443): Failed to resolve 'ai.hubtoday.app' ([Errno -2] Name or service not known)\"))"
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 853,
+      "duration_ms": 10753,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 127,
-      "duration_ms": 1288,
+      "duration_ms": 1876,
       "error": null
     }
   ],
@@ -104,9 +104,9 @@
     "aihubtoday"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 5018,
-  "items_before_topic_filter": 4210,
-  "items_in_24h": 403,
+  "fetched_raw_items": 5027,
+  "items_before_topic_filter": 4188,
+  "items_in_24h": 392,
   "rss_opml": {
     "enabled": false,
     "path": null,
