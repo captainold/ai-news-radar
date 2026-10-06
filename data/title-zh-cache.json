@@ -37198,5 +37198,13 @@
   "Nobel Prize in Physiology or Medicine 2026": "2026 年诺贝尔生理学或医学奖",
   "Apple and a hacker's future": "苹果和黑客的未来",
   "Denmark data breach exposes 8.8M people's personal data": "丹麦数据泄露泄露 880 万人的个人数据",
-  "Qualcomm licenses patents on Huawei’s LogicFolding chip tech": "高通获得华为 LogicFolding 芯片技术专利授权"
+  "Qualcomm licenses patents on Huawei’s LogicFolding chip tech": "高通获得华为 LogicFolding 芯片技术专利授权",
+  "Jiti – Grow a running Lisp application by talking to it": "Jiti – 通过与正在运行的 Lisp 应用程序交谈来扩展它",
+  "Pentagon stops using Anthropic AI tools months after blacklisting company, BBC told": "BBC 称，五角大楼在将公司列入黑名单几个月后停止使用 Anthropic 人工智能工具",
+  "Our approach to EU text provenance rules": "我们对欧盟文本来源规则的处理方法",
+  "Lunatik 5.0: scripting the Linux kernel with Lua, now with eBPF integration": "Lunatik 5.0：使用 Lua 编写 Linux 内核脚本，现在集成了 eBPF",
+  "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript. gdp-ts is a library, linter and AI skill for safer API design. Under this contract, sensitive functions require 'proofs' that the caller performed an autho...": "隆重推出 gdp-ts：TypeScript 的《Ghosts of Departed Proofs》。 gdp-ts 是一个库、linter 和 AI 技能，用于更安全的 API 设计。根据该合同，敏感功能需要“证明”来证明调用者执行了授权...",
+  "Another step towards Elm 1.0": "迈向 Elm 1.0 的又一步",
+  "Learn more about Gemini 3.8 Live here: https://t.co/snlN2hRnEM": "了解有关 Gemini 3.8 Live 的更多信息：https://t.co/snlN2hRnEM",
+  "I built an AI language learning app that teaches me Japanese via live voice calls. Here's my new tutorial that shows you exactly how I built this, including: → Using my spec skill to create key designs → Setting up Ge...": "我开发了一款人工智能语言学习应用程序，可以通过实时语音通话教我日语。这是我的新教程，向您展示我如何构建它，包括： → 使用我的规范技能来创建关键设计 → 设置 Ge..."
 }
