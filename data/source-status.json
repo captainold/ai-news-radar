@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-06T19:08:18.409844Z",
+  "generated_at": "2026-10-06T23:07:17.993732Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 207,
-      "duration_ms": 2734,
+      "item_count": 198,
+      "duration_ms": 3231,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 38,
+      "duration_ms": 211,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 30,
-      "duration_ms": 388,
+      "duration_ms": 148,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 546,
+      "duration_ms": 313,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 759,
+      "duration_ms": 503,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 318,
-      "duration_ms": 13501,
+      "item_count": 322,
+      "duration_ms": 14378,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1115,
+      "duration_ms": 1013,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3018,
-      "duration_ms": 1243,
+      "item_count": 2902,
+      "duration_ms": 1536,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 76,
-      "duration_ms": 854,
+      "item_count": 68,
+      "duration_ms": 1066,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5531,
+      "duration_ms": 5376,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1466,
+      "duration_ms": 2060,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 122,
-      "duration_ms": 1584,
+      "duration_ms": 1435,
       "error": null
     }
   ],
@@ -104,9 +104,9 @@
     "aihubtoday"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 4941,
-  "items_before_topic_filter": 4065,
-  "items_in_24h": 307,
+  "fetched_raw_items": 4812,
+  "items_before_topic_filter": 4009,
+  "items_in_24h": 309,
   "rss_opml": {
     "enabled": false,
     "path": null,
