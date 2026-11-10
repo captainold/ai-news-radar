@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-11-10T18:19:05.098524Z",
+  "generated_at": "2026-11-10T23:34:19.497349Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-11-10",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
+    {
+      "date": "2026-11-10",
+      "title": "当 Agent 一句话就能写出能跑的代码，工程师还该练什么？斯坦福 CS146S 的老师一边教学生，一边在真实团队部署 Agent，把这个问题带进了开源贡献、维护者审阅和团队协作。一起看看下一代工程师的竞争力到底在哪里！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-11-10",
       "title": "作者这篇文章把 AI 短剧和电影短片的写法区别细细拆解了下：短剧要让观众想追下一集，短片则要把故事和情绪完整收住。作者从一句话判断选题，到拆分集、排镜头、写台词，用一部 69 集短剧和一部 4 分钟短片带着你完整走一遍，还给到了审稿清单、提示词和剧本 Skill。",
@@ -38,8 +43,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 40,
   "updates_7d": [
+    {
+      "date": "2026-11-10",
+      "title": "当 Agent 一句话就能写出能跑的代码，工程师还该练什么？斯坦福 CS146S 的老师一边教学生，一边在真实团队部署 Agent，把这个问题带进了开源贡献、维护者审阅和团队协作。一起看看下一代工程师的竞争力到底在哪里！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-11-10",
       "title": "作者这篇文章把 AI 短剧和电影短片的写法区别细细拆解了下：短剧要让观众想追下一集，短片则要把故事和情绪完整收住。作者从一句话判断选题，到拆分集、排镜头、写台词，用一部 69 集短剧和一部 4 分钟短片带着你完整走一遍，还给到了审稿清单、提示词和剧本 Skill。",
